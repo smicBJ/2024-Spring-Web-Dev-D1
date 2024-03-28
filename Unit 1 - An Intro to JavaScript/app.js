@@ -1,14 +1,14 @@
 
 // console.log("Hello World!");
 
-// alert("Hello, Claire");
+// alert("I love Kimchi");
 
-var favoriteStudent = "Richard"
-favoriteStudent = "Chloe"
+var favoriteStudent = "Henrik"
+// favoriteStudent = "Chloe"
 console.log(favoriteStudent)
 
-let leastFavoriteStudent = "James"
-leastFavoriteStudent = "Henrik"
+let leastFavoriteStudent = "henryna"
+leastFavoriteStudent = "Ariaan"
 
 const thatGuy = "Jeff"
 // thatGuy = "Jordan"
