@@ -3,6 +3,15 @@ h1, h3 {
   text-align: center;
 }
 
-body {
-  background-color: black;
+#title, #para {
+  color: aquamarine;
 }
+
+.title {
+  color: red;
+}
+
+h1 {
+  color: green;
+}
+

@@ -9,6 +9,6 @@ if (5 == "55") {
   console.log("It is not")
 }
 
-let userName = prompt("What is your name?")
+// let userName = prompt("What is your name?")
 
 console.log(userName)
