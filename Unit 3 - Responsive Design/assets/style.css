@@ -18,7 +18,7 @@ body {
 }
 
 .section-two {
-  margin: 30px 0;
+  margin: 30px 0 0;
   padding: 50px 0;
   background-color: black;
   color: white;
@@ -45,10 +45,11 @@ img {
 
 .quote {
   font-size: 48px;
-  margin-bottom: 0;
+  margin: 0;
   font-family: cursive, 'Courier New', Courier, monospace;
 }
 
 .quote-credit {
   font-size: 30px;
+  margin-bottom: 0;
 }
